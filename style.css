@@ -80,7 +80,6 @@ main{
 @media screen and (max-width:950px) {
     .topup{
         flex-direction: column;
-        /* width: 100%; */
     }
     .top{
         width: 100%;
@@ -130,6 +129,9 @@ main{
         width: 100%;
         flex-direction: column;
         align-items: center;
+    }
+    .about img{
+        width: 100%;
     }
     .a1{
         line-height: 30px;
